@@ -1,0 +1,10 @@
+streamlit
+pytrends
+requests
+langgraph
+langchain
+openai
+anthropic
+google-generativeai
+python-dotenv
+pytest
